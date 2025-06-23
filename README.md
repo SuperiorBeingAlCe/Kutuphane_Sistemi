@@ -20,7 +20,7 @@ Yönetici giriş sistemi ve admin bilgilerini token üzerinden alma.
 -Kard üretimi-okuma
 -Kitap kiralama yönetimi
 -Geciken kitaplardan dolayı ceza yazma sistemi
--
+
 
 ✅ Kullanıcı / Admin / Kitaplar / Yazar / Yayımcı / Kategori Modülleri:
 CRUD işlemleriyle entegre tam yönetim sistemi.
