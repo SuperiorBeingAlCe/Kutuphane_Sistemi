@@ -1,0 +1,6 @@
+@kitapsin.Server_HostAddress = http://localhost:5197
+
+GET {{kitapsin.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

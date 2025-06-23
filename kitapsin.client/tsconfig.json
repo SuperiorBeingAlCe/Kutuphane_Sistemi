@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "charset": "utf8",
+    "jsx": "react-jsx",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "lib": [ "dom", "esnext" ],
+    "module": "esnext",
+    "target": "es6",
+    "strict": true,
+    "skipLibCheck": true
+  },
+ 
+    "files": [],
+    "references": [
+      { "path": "./tsconfig.app.json" },
+      { "path": "./tsconfig.node.json" }
+    ]
+  }

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "kitapsin.client", "kitapsin.client\kitapsin.client.esproj", "{EB9CF220-4036-D2E8-1D09-F1011E4B3BE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kitapsin.Server", "kitapsin.Server\kitapsin.Server.csproj", "{ECD7B364-BACC-0BF9-F933-CABFBDD68A7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kitapsin.AppHost", "kitapsin.AppHost\kitapsin.AppHost.csproj", "{F2F44C73-51FA-4D38-9EA6-E20E573F9776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kitapsin.ServiceDefaults", "kitapsin.ServiceDefaults\kitapsin.ServiceDefaults.csproj", "{D4B77FE2-6B2C-FF1F-6CA3-8036E4308072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kitapsin.Tests", "kitapsin.Tests\kitapsin.Tests.csproj", "{30A08F5A-E482-418D-8CD1-AFB89DE2922E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB9CF220-4036-D2E8-1D09-F1011E4B3BE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB9CF220-4036-D2E8-1D09-F1011E4B3BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB9CF220-4036-D2E8-1D09-F1011E4B3BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB9CF220-4036-D2E8-1D09-F1011E4B3BE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD7B364-BACC-0BF9-F933-CABFBDD68A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD7B364-BACC-0BF9-F933-CABFBDD68A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD7B364-BACC-0BF9-F933-CABFBDD68A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD7B364-BACC-0BF9-F933-CABFBDD68A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2F44C73-51FA-4D38-9EA6-E20E573F9776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F44C73-51FA-4D38-9EA6-E20E573F9776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F44C73-51FA-4D38-9EA6-E20E573F9776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F44C73-51FA-4D38-9EA6-E20E573F9776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4B77FE2-6B2C-FF1F-6CA3-8036E4308072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B77FE2-6B2C-FF1F-6CA3-8036E4308072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B77FE2-6B2C-FF1F-6CA3-8036E4308072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B77FE2-6B2C-FF1F-6CA3-8036E4308072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30A08F5A-E482-418D-8CD1-AFB89DE2922E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A08F5A-E482-418D-8CD1-AFB89DE2922E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A08F5A-E482-418D-8CD1-AFB89DE2922E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A08F5A-E482-418D-8CD1-AFB89DE2922E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4EFE507-48D7-485A-8A01-CD5BC4E80974}
+	EndGlobalSection
+EndGlobal
